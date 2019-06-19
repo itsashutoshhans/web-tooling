@@ -1,0 +1,32 @@
+{
+  "name": "gulp-tooling",
+  "version": "1.0.0",
+  "description": "gulp tooling poc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gulp",
+    "web-tooling"
+  ],
+  "author": "Ashutosh Hans",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^6.1.0",
+    "gulp-babel": "^6.0.0"
+  },
+  "dependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp-concat": "^2.6.1",
+    "gulp-eslint": "^5.0.0",
+    "gulp-jasmine-browser": "^4.1.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-uglify": "^3.0.2",
+    "jasmine-core": "^3.4.0",
+    "puppeteer": "^1.17.0"
+  }
+}

@@ -1,0 +1,14 @@
+.main {
+    background-color: darkgray;
+    padding: 20px;
+    .sub {
+        background-color: black;
+        padding: 10px;
+        .inner {
+            display: flex;
+            color: white;
+            background-color: grey;
+            padding: 25px;
+        }
+    }
+}
