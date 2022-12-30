@@ -16,7 +16,7 @@
     "eslint": "^5.16.0",
     "gulp": "^3.9.1",
     "gulp-autoprefixer": "^6.1.0",
-    "gulp-babel": "^6.0.0"
+    "gulp-babel": "^8.0.0"
   },
   "dependencies": {
     "browser-sync": "^2.26.7",
